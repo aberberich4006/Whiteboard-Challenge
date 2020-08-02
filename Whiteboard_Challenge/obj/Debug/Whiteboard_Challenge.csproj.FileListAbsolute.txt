@@ -1,0 +1,7 @@
+C:\ElevenFiftyProjects\DotNetChallenges\Whiteboard_Challenge\Whiteboard_Challenge\bin\Debug\Whiteboard_Challenge.exe.config
+C:\ElevenFiftyProjects\DotNetChallenges\Whiteboard_Challenge\Whiteboard_Challenge\bin\Debug\Whiteboard_Challenge.exe
+C:\ElevenFiftyProjects\DotNetChallenges\Whiteboard_Challenge\Whiteboard_Challenge\bin\Debug\Whiteboard_Challenge.pdb
+C:\ElevenFiftyProjects\DotNetChallenges\Whiteboard_Challenge\Whiteboard_Challenge\obj\Debug\Whiteboard_Challenge.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\DotNetChallenges\Whiteboard_Challenge\Whiteboard_Challenge\obj\Debug\Whiteboard_Challenge.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\DotNetChallenges\Whiteboard_Challenge\Whiteboard_Challenge\obj\Debug\Whiteboard_Challenge.exe
+C:\ElevenFiftyProjects\DotNetChallenges\Whiteboard_Challenge\Whiteboard_Challenge\obj\Debug\Whiteboard_Challenge.pdb
